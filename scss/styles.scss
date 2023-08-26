@@ -6,6 +6,9 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    .div{
+        border: none
+    }
 }
 
 @import "h123";
@@ -18,6 +21,6 @@
 @import "footer";
 @import "posters";
 @import "capred";
-@import "mediaquery";
+@import "mediaquery"
 
 
